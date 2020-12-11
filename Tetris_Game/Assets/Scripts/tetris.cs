@@ -5,6 +5,7 @@ using UnityEngine;
 public class tetris : MonoBehaviour
 {
     public bool gravityApply;
+ 
     private void Start()
     {
         gravityApply = false;

@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Block
   - Area
+  - BottomCollider
+  - SideWall
   layers:
   - Default
   - TransparentFX
